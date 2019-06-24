@@ -66,8 +66,8 @@ ol, ul {
 .content-wrap .content-list .item-img04 {
     width: 100%;
     height: 100%;
-    background-image: url(../images/img-04@2x.jpg);
-    background-image: -webkit-image-set(url(../images/img-04@2x.jpg) 1x,url(../images/img-04@3x.jpg) 2x);
+    background-image: url(../images/img-04@2x.png);
+    background-image: -webkit-image-set(url(../images/img-04@2x.png) 1x,url(../images/img-04@3x.png) 2x);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
